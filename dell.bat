@@ -1,0 +1,1 @@
+rimraf .log*  && rimraf *.log
